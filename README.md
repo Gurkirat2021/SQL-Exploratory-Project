@@ -71,7 +71,7 @@ Built an interactive dashboard showing:
 
 📊 Sample Dashboard (Power BI)
 
- ![Dashboard Screenshot](global_layoff_power_bi_visualization.pbix)
+ ![Power BI Dashboard Screenshot](https://github.com/Gurkirat2021/SQL-Exploratory-Project/blob/main/global_layoff_powerbi_visualization.pbix)
 
 ✅ Future Improvements
 •	Add Tableau visualizations for cross-tool comparison.
