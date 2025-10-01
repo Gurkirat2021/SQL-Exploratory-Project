@@ -31,6 +31,7 @@ Key Columns:
 •	SQL (MySQL): Data cleaning, transformation and analysis.
 •	Power BI: Power BI dashboard files and screenshots.
 •	GitHub: Version Control and documentation. 
+
 📂 Project Structure
 •	data/– Raw dataset and cleaned versions.
 •	SQL scripts/ –   SQL queries for cleaning, transformation, and analysis.
@@ -38,6 +39,7 @@ Key Columns:
 •	README.md – Project documentation.
 
 🚀 Key Steps
+
 📃 Data Cleaning 
       Performed in a staging table (layoffs_original):
 •	Removed Duplicates:
